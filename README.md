@@ -3,7 +3,13 @@
 # 🍿 [cinema-app](http://cinema-app-losyash.herokuapp.com/login) 🍿
 
 Web aplication with webend part which implements work of the cinema-app 
-using Java, Hibernate and Spring.
+using Java, Hibernate and Spring. Based on 3-layer architecture (dao, service, contoller).
+
+__Potential customers:__ cinemas and their visitors.
+
+__The purpose of the project:__ application is intended for use by administrators of cinemas and their visitors. 
+The project gives ability for visitors: to add ticket to their shopping cart and to complete it, for administrators: 
+to add, change and delete movie sessions, halls and movies, for all: authentication and authorization.
 ## Functionality
 #### __ALL__
 - __Registration and authorization__ `POST: /register` `GET: /login`
@@ -45,9 +51,14 @@ using Java, Hibernate and Spring.
 - AOP
 - MySQL
 - Apache Tomcat - version 9.0.50
+- Apache Maven - version 3.8.5
+- Git - version 2.35.1.windows.2
 ## DB relations structure
 ![pic](cinema-app.png)
 ## Setup
+- Install: 
+    - Apache Tomcat - version 9.0.50
+    - MySQL - version 8.0.22 
 - Clone project to your IDE.
 - Create schema in MySQL.
 - Add DB configurations in: 
