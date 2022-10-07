@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a080049c-c31b-44ef-816d-fe3f680f2c49" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cinemaapp/initialization/DataInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cinemaapp/initialization/DataInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cinema-app-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/cinema-app-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hibernate-cascade" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../taxi-service" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
@@ -56,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664995543513</updated>
       <workItem from="1664995545825" duration="8255000" />
-      <workItem from="1665087957880" duration="6252000" />
+      <workItem from="1665087957880" duration="7351000" />
     </task>
     <servers />
   </component>
